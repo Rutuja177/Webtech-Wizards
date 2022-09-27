@@ -7,10 +7,8 @@ rvd0748@mavs.uta.edu
 
 Coursework(Fall 2021) include 8 Projects
 
-Assignments are coded and tested in python3.9.7 on MacBook Air (M1, 2020) Monterey.
+It is strongly advised that you utilize these codes as a guide and make use of the relevant functionalities as needed.
 
-Its highly recommended that you should use this codes for reference and use necessary functionalities as per your need.
-
-Please note this code is not best, it is what I can implement within given timeframe, can be improve.
+Please be aware that this code could be improved and is only the best I could implement in the time available.
 
 Feel free to contact for doubts on above mail.
