@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<!-- Student Name: Rutuja Dukhande  -->
+<html lang="en">
+  <head>
+    <title>Web Mashup: Display Best Restaurants on a Map</title>
+    <meta charset="utf-8"/>
+    <script type="text/javascript" src="yelp.js"></script>
+    <style>
+      #map{
+       height: 400px;
+       width: 500px;
+       border-style: hidden;
+      }
+    </style>
+  </head>
+  <body onload="initialize();">
+    <form>
+       <label>Search Terms: <input type="text" id="search"/></label>
+       <input type="button" onclick="sendRequest();" value="Find"/>
+    </form>
+    
+    <div id="map"></div><br></br>
+    <script
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDODZ0RSnRwtz0lmD08Q21SSEk_d6T1bUI&callback=myMap"
+      async
+    ></script>
+    <div id="imagica">
+     <div id="i1"> <img src="" alt="" id="img1" ></div>
+    </div>
+     <div id=output></div>
+  </body>
+</html>
+
