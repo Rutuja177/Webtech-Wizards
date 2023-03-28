@@ -4,19 +4,19 @@ Coursework(Fall 2021) include 8 Projects
 Project 1: JavaScript Animation <br/>
 The project involves creating a JavaScript animation that moves and bounces photos inside a court window based on user clicks, implemented in photos.js and photos.html.
 
-Project 2: A Music Web Application 
+Project 2: A Music Web Application <br/>
 Developed a web application using plain JavaScript and Ajax that asynchronously retrieves and displays information about music artists from Last.fm, including artist name, biography, picture, top albums, and similar artists, based on user input in a text window.
 
-Project 3: Display Best Restaurants on Map
+Project 3: Display Best Restaurants on Map <br/>
 A search-based restaurant locator that displays the top 10 matching restaurants on a map with overlay markers and provides their image, name as clickable Yelp URL, and rating in an ordered list.
 
-Project4: PHP Scripting
+Project4: PHP Scripting <br/>
 A PHP-based photo album application that allows uploading and displaying of images stored on the web server, with a form for uploading new images and a list of existing image files with links to download and display them in an image section.
 
-Project5: Secure Photo Album with User Authentication and Registration in PHP.
+Project5: Secure Photo Album with User Authentication and Registration in PHP. <br/>
 A PHP-based photo album application with user authentication and registration, where album.php displays and uploads images in the user's own image directory, login.php and register.php handle user authentication and registration respectively.
 
-Project 6: PHP Photo Album with Dropbox API V2 Integration.
+Project 6: PHP Photo Album with Dropbox API V2 Integration. <br/>
 A PHP-based photo album application that uses the Dropbox API V2 to upload, delete, and retrieve photographs, with Dropbox API app creation and authentication steps.
 
 
