@@ -1,7 +1,7 @@
 # Web-Data-Management
 Coursework(Fall 2021) include 8 Projects
 
-Project 1: JavaScript Animation
+Project 1: JavaScript Animation <br/>
 The project involves creating a JavaScript animation that moves and bounces photos inside a court window based on user clicks, implemented in photos.js and photos.html.
 
 Project 2: A Music Web Application 
